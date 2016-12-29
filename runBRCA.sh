@@ -23,7 +23,7 @@ VAR_PATH=$FILE_PATH/var
 PLATYPUS_VAR=$FILE_PATH/var_platypus
 CNV_PATH=$FILE_PATH/cnv
 
-echo "RUN Multiplicom "
+echo "RUN Multiplicom BRCA Tumor MASTR Plus Dx (Illumina) with BWA MEM"
 
 echo "Lib: $RUN_ID"
 echo "Run-Name: $RUN_NAME"
