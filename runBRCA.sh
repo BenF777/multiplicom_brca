@@ -80,6 +80,7 @@ ACT_BED_FILE=$SCRIPT_PATH/bed/IFU425_BRCA_Tumor_MASTRPlus_BED_v150818.bed
 
 #Variant Calling, Filtering & Annotation
 echo "Variant Calling using Samtools for SNVs and Platypus for Indels"
+# TODO: implement other / better algorithms, such as GATK HaplotypeCaller, VarScan, Freebayes, or MuTect
 
 mkdir -p $VAR_PATH
 mkdir -p $PLATYPUS_VAR
