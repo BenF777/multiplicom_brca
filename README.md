@@ -13,5 +13,5 @@ Tools used:
 
 Settings for Variant Filtering
 - Minimum Coverage: 500x
-- Variant Allele Frequency: 5% (0.05)
+- Minimum Variant Allele Frequency: 5% (0.05)
 - Strand Bias: 0
