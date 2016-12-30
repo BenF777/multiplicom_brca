@@ -1,9 +1,0 @@
-ANNOVAR Version:
-	$Date: 2016-02-01 00:11:04 -0800 (Mon,  1 Feb 2016) $
-ANNOVAR Information:
-	For questions, comments, documentation, bug reports and program update, please visit http://www.openbioinformatics.org/annovar/
-ANNOVAR Command:
-	/home/benflies/Bioinformatics/pipeline/Tools/annovar/annotate_variation.pl -geneanno -buildver hg19 -dbtype refGene -outfile -remove.refGene -exonsort .avinput /home/benflies/Bioinformatics/pipeline/Tools/annovar/humandb
-ANNOVAR Started:
-	Fri Dec 30 10:43:16 2016
-NOTICE: Output files were written to -remove.refGene.variant_function, -remove.refGene.exonic_variant_function
