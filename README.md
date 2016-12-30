@@ -2,6 +2,8 @@
 
 Pipeline for Multiplicom BRCA Tumor MASTR Dx sequenced with Illumina (MiSeq)
 
+Command Example: . runBRCA.sh configuration.conf 161219-AR2DP_20161219_BRCA2 161219-AR2DP_20161219_BRCA2 1 1
+
 Tools used:
 - FastQ Generation: bcl2fastq
 - FastQ Trimming: FastX
